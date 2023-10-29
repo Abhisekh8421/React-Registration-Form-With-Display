@@ -1,0 +1,58 @@
+.App {
+    background: linear-gradient(to right, #3a4d39, #4f6f52);
+    background-position: center;
+    background-size: cover;
+    background:linear-gradient(to right,#B3A492,#BFB29E)
+  }
+  form {
+    height: 100vh;
+    background-color: white;
+    padding: 20px 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin:20px 30px;
+    width:290px;
+  }
+  h1 {
+    color: #ce5a67;
+    text-align: center;
+    font-family:Roboto;
+    font-weight:bold;
+  }
+  button {
+    width: 100%;
+    padding: 10px;
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+    background-color: #b0926a;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background-color 0.3s;
+  }
+  button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+  }
+  input{
+    display:flex;
+    flex-direction:column;
+    padding: 25px;
+    margin: 10px 10px;
+    border-radius: 15px;
+    border: 1px solid grey;
+    width:230px;
+  }
+  label {
+    font-size: 13px;
+    color: #495e57;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  

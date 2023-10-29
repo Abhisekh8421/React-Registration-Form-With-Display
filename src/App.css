@@ -1,0 +1,16 @@
+.app-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 20px;
+    height: 150vh;
+    background:linear-gradient(to right,#BEADFA,#DFCCFB);
+    
+  }
+
+  .card-container {
+    width: 45%;
+  }
+
+  
+  

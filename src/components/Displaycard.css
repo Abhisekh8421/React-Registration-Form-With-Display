@@ -1,0 +1,27 @@
+
+.card {
+    background:linear-gradient(to right,#FFF0CE,#FFF0CE);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+  }
+  
+  .card h1 {
+    font-size: 18px;
+    margin: 5px;
+  }
+  
+  .card h1:first-child {
+    font-size: 24px;
+    color:black; 
+  }
+
+
+  
+  
+
+  
